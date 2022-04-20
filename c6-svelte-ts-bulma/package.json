@@ -1,0 +1,33 @@
+{
+  "name": "c6-svelte-ts-bulma",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "@tsconfig/svelte": "^2.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.18.0",
+    "@typescript-eslint/parser": "^5.18.0",
+    "axios": "^0.26.1",
+    "bulma": "^0.9.3",
+    "eslint": "^8.12.0",
+    "eslint-plugin-html": "^6.2.0",
+    "eslint-plugin-svelte3": "^3.4.1",
+    "mitt": "^3.0.0",
+    "prettier": "^2.6.2",
+    "prettier-plugin-svelte": "^2.6.0",
+    "sass": "^1.50.0",
+    "svelte": "^3.44.0",
+    "svelte-check": "^2.2.7",
+    "svelte-preprocess": "^4.9.8",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.0"
+  }
+}

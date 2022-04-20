@@ -1,0 +1,19 @@
+// ##############################
+// *
+// * common style
+// *
+// ##############################
+@import 'bulma/bulma.sass';
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@100;300;400;500;700;800;900&display=swap');
+
+// ボディー
+body {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+// backtotopボタン
+.back {
+  position: fixed;
+  right: 50px;
+  bottom: 200px;
+}
