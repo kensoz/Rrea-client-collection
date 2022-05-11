@@ -23,7 +23,7 @@
   <div class="level-left">
     <div class="level-item">
       <h3 class="title is-3">
-        <a href="/" class="has-text-black">RreaC<span class="has-text-primary">6</span></a>
+        <a href="/" class="has-text-black">RreaC<span class="has-text-primary">3</span></a>
       </h3>
     </div>
   </div>

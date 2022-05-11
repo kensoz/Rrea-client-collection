@@ -25,6 +25,5 @@ lerna-debug.log*
 **/dist
 
 # rrea
-c1-vue2-es-vuetify
-c2-vue3-es-quasar
-c5-react-ts-mui
+c2-react-ts-mui
+c4-vue3-es-quasar
