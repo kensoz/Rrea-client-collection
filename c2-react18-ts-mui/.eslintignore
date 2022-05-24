@@ -1,0 +1,7 @@
+.eslintrc.js
+build/
+public/
+**/node_modules/
+*.config.js
+.*lintrc.js
+setupProxy.js
