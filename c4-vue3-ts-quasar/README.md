@@ -26,15 +26,11 @@ yarn
 ###### 開発
 
 ```bash
-yarn run dev
+yarn dev
 ```
 
 ###### コンパイラ
 
 ```bash
-yarn run build
+yarn build
 ```
-
-### 最後
-
-Enjoy !

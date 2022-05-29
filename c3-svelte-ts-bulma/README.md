@@ -47,5 +47,3 @@ pnpm run build
 
 たまに、Viteが見つからないエラーが出る。対策として`node_modules`を削除し、再インストールすれば、解決できると思う
 pnpm環境でPrettierの設定について：https://qiita.com/kensoz/items/8d81ba371858224c1c67
-
-Enjoy !
