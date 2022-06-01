@@ -1,16 +1,16 @@
 <template>
-  <section class="row q-mx-xl q-my-md">
+  <section class="row q-mx-md-xl q-ml-xs-none q-mr-xs-md q-my-md q-col-gutter-md">
     <!-- 指定されたユーザーがいない場合 -->
     <div v-if="users.length === 0" class="">指定されたユーザーがいません</div>
 
     <!-- ユーザーデータカード -->
     <template v-for="item in users" :key="item.id">
-      <q-card :class="`bg-${bgColorCreator(Number(item.areaCode))}`" class="row no-wrap col-12 col-md-4 q-my-sm" flat>
-        <q-card-section class="col-5 col-sm-3 col-md-4">
+      <q-card class="row no-wrap col-12 col-sm-6 col-md-4" flat>
+        <q-card-section :class="`bg-${bgColorCreator(Number(item.areaCode))}`" class="col-5 col-md-4">
           <q-img src="/image.png" />
         </q-card-section>
 
-        <q-card-section class="col">
+        <q-card-section :class="`bg-${bgColorCreator(Number(item.areaCode))}`" class="col">
           <div class="text-h6">
             {{ item.name }}
           </div>

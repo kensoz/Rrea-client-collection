@@ -1,5 +1,5 @@
 <template>
-  <section class="row wrap justify-between q-mx-xl">
+  <section class="row wrap justify-between q-mx-md-xl q-mx-xs-md">
     <!-- フォームオプション start -->
     <div class="column col-12 col-md-auto">
       <!-- 場所選択 -->
