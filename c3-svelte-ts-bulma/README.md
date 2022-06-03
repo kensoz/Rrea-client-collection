@@ -1,6 +1,6 @@
 # Rrea-Client 3 (C3)
 
-![a Vue.js Project](https://img.shields.io/badge/Svelte.js-Front--End-6ee7b7.svg?logo=Svelte&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
+![a Vue.js Project](https://img.shields.io/badge/Svelte.js-Front--End-6ee7b7.svg?logo=Svelte&style=flat-square)　![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
 
 Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
