@@ -1,6 +1,6 @@
 # Rrea-Client-Collection
 
-![a Vue.js Project](https://img.shields.io/badge/Typescript-Front--End-e5e5e5.svg?logo=typescript&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)   
+![a Vue.js Project](https://img.shields.io/badge/Typescript-Front--End-e5e5e5.svg?logo=typescript&style=flat-square)　![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)　　   
 
 Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
