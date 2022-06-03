@@ -1,8 +1,10 @@
 {
-  "name": "c3-svelte-ts-bulma",
+  "name": "rrea-client-3",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "author": "renhou",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

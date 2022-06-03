@@ -1,13 +1,19 @@
-# Rrea Client 3 (C4)
+# Rrea-Client 4 (C4)
 
-Rrea Client その3の Vue.js + Pinia.js版、従来のEventBus方法より、今回は状態管理ライブラリを使った
-UIライブラリはよく業務で利用しているQuasarを選定
+![a Vue.js Project](https://img.shields.io/badge/Vue.js-Front--End-a78bfa.svg?logo=Vue.js&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
 
-バックエンドGitHub：
+Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
-### スタック
+##### Rrea-Client 4 について
 
-+ ⚡️ Vue.js + Pinia.js
+メンバー位置と情報の管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です。
+状態管理ライブラリと業務でよく利用しているQuasarを使って構築しました。
+
+
+
+## スタック
+
++ ⚡️ Vue.js 3 + Pinia.js
 + ⚙️ TypeScript
 + 🎨 Quasar
 + 📑 Eslint + Prettier
@@ -15,22 +21,27 @@ UIライブラリはよく業務で利用しているQuasarを選定
 + 📦 Yarn
 + 🔺 RESTful API
 
-### 使用
 
-###### インストール
+
+## 使用
+
+##### インストール
 
 ```bash
 yarn
 ```
 
-###### 開発
+##### 開発
+
+http://localhost:3000で起動
 
 ```bash
 yarn dev
 ```
 
-###### コンパイラ
+##### ビルド
 
 ```bash
 yarn build
 ```
+

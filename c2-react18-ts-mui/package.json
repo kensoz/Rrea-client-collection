@@ -1,7 +1,9 @@
 {
-  "name": "c2-react18-ts-mui",
+  "name": "rrea-clent-2",
   "private": true,
   "version": "1.0.0",
+  "author": "renhou",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

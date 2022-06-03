@@ -1,13 +1,13 @@
-# Rrea Client 5(C5)
+# Rrea-Client 5 (C5)
 
 🚧 TODO
 
-JSフレームワークを使わず HTML + TypeScript + SASS で作る予定
-PUG、art-templateみたいなテンプレートエンジンをつかうかもしれない
+JSフレームワークを使わなく、 HTML + TypeScript + SASS だけで作る予定です。
+PUG、art-templateなどテンプレートエンジンを使うかもしれません。
 
-#### スタック（予定）
+## スタック（予定）
 
-+ ⚡️ PUG or art-template
++ ⚡️ PUG
 + ⚙️ TypeScript
 + 🎨 SASS
 + 🏭 webpack

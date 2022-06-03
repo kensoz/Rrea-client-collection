@@ -1,11 +1,17 @@
-# Rrea Client 3 (C3)
+# Rrea-Client 3 (C3)
 
-Rrea Client その3の Svelte.js 版、Bulma、pnpm色々業務で使ったことがないものを試した
-pnpm環境でPrettierの設定にハマったが、pnpmの速さと効率性を感じた
+![a Vue.js Project](https://img.shields.io/badge/Svelte.js-Front--End-6ee7b7.svg?logo=Svelte&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
 
-バックエンドGitHub：
+Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
-### スタック
+##### Rrea-Client 3 について
+
+メンバー位置と情報の管理システムメンバー用サイト(Client)のSvelte.js版です。
+新しいフレームワークSvelte.jsを試したく、使ったことがないBulmaとpnpmも使って構築しました。
+
+
+
+## スタック
 
 + ⚡️ Svelte.js
 + ⚙️ TypeScript
@@ -15,9 +21,11 @@ pnpm環境でPrettierの設定にハマったが、pnpmの速さと効率性を�
 + 📦 pnpm
 + 🔺 RESTful API
 
-### 使用
 
-###### 初めに
+
+## 使用
+
+##### 初めに
 
 pnpmを使っているので、pnpm のインストールが必要
 
@@ -25,25 +33,29 @@ pnpmを使っているので、pnpm のインストールが必要
 npm install -g pnpm@next-7
 ```
 
-###### インストール
+##### インストール
 
 ```bash
 pnpm install
 ```
 
-###### 開発
+##### 開発
+
+http://localhost:3000で起動
 
 ```bash
 pnpm run dev
 ```
 
-###### コンパイラ
+##### ビルド
 
 ```bash
 pnpm run build
 ```
 
-### 最後
 
-たまに、Viteが見つからないエラーが出る。対策として`node_modules`を削除し、再インストールすれば、解決できると思う
-pnpm環境でPrettierの設定について：https://qiita.com/kensoz/items/8d81ba371858224c1c67
+
+## 資料＆注意事項
+
++ Viteが見つからないエラーが出ることがあります。対策として再インストールすれば、解決できると思います
++ pnpm環境でPrettierの設定について：https://qiita.com/kensoz/items/8d81ba371858224c1c67

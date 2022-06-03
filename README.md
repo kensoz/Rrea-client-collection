@@ -1,18 +1,20 @@
 # Rrea-Client-Collection
 
-TODO
+![a Vue.js Project](https://img.shields.io/badge/Typescript-Front--End-e5e5e5.svg?logo=typescript&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
 
-ホームページ：
-バックエンド GitHub：
+Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
-### Rrea とは
+##### Rrea-Client-Collectionとは
 
-TODO
+メンバー位置と情報の管理システムのデフォルトClientはVue.jsによる構築、公開しましたが、
+React.js, Svelte.jsなどの技術で他の版も開発しました。
 
-### Compass
 
-- 1️⃣ 　看板バージョン：c1-vue3-ts-tailwindcss3
-- 2️⃣ 　 React.js 版：
-- 3️⃣ 　 Svelte.js 版：c3-svelte-ts-bulma
-- 4️⃣ 　 Vue.js + Pinia.js 版：c4-vue3-ts-quasar
-- 5️⃣ 　 JS フレームワークなし版：c5-html-ts-sass（作る予定）
+
+## ナビ
+
+- 1️⃣ c1: 　[Vue.js（デフォルト）]()
+- 2️⃣ c2: 　[React.js]() 
+- 3️⃣ c3: 　[Svelte.js]()
+- 4️⃣ c4:　[Vue.js + Pinia.js]()
+- 5️⃣ c5:　[HTML]()

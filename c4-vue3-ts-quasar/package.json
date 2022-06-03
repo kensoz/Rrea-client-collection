@@ -1,7 +1,9 @@
 {
-  "name": "c4-vue3-ts-quasar",
+  "name": "rrea-client-4",
   "private": true,
   "version": "1.0.0",
+  "author": "renhou",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",

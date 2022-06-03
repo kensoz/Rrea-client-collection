@@ -1,13 +1,19 @@
-# Rrea Client 2 (C2)
+# Rrea-Client 2 (C2)
 
-Rrea Client その 2 の業務でなかなか使う機会がない React.js (HOOK)版
-Restful API 代わりに、Apollo GraphQL を使っている
+![a Vue.js Project](https://img.shields.io/badge/React.js-Front--End-22d3ee.svg?logo=React&style=flat-square)![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
 
-バックエンド GitHub：
+Demo（デフォルト版）:  **[Client]() | [Admin]()**     GitHub:  **[Server]() | [Admin]() | [Client]() |  [Client-Collection]()**
 
-### スタック
+##### Rrea-Client 2 について
 
-- ⚡️ React.js
+メンバー位置と情報の管理システムメンバー用サイト(Client)のReact.js版です。
+業務でなかなか使う機会がない React.jsとGraphQL を使って構築しました。
+
+
+
+## スタック
+
+- ⚡️ React.js（HOOK）
 - ⚙️ TypeScript
 - 🎨 MUI
 - 📑 Eslint + Prettier
@@ -15,21 +21,25 @@ Restful API 代わりに、Apollo GraphQL を使っている
 - 📦 yarn
 - 🔺 GraphQL
 
-### 使用
 
-###### インストール
+
+## 使用
+
+##### インストール
 
 ```bash
 yarn install
 ```
 
-###### 開発
+##### 開発
+
+http://localhost:3000で起動
 
 ```bash
 yarn dev
 ```
 
-###### コンパイラ
+##### ビルド
 
 ```bash
 yarn build
