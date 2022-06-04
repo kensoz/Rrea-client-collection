@@ -1,6 +1,6 @@
 # Rrea-Client-Collection
 
-![a Vue.js Project](https://img.shields.io/badge/Typescript-Front--End-e5e5e5.svg?logo=typescript&style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)　　   
+![Node](https://img.shields.io/badge/Node.js-v18.3.0-84CC16.svg?style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)　   
 
 Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin]() | [Client](https://github.com/kensoz/Rrea-client)**
 
@@ -13,10 +13,10 @@ React.js、Svelte.jsなどの技術で様々な版も開発しました。
 
 ## コレクション
 
--  C1：[Vue.js（デフォルト版）](https://github.com/kensoz/Rrea-client)
--  C2：[React.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c2-react18-ts-mui) 
--  C3：[Svelte.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c3-svelte-ts-bulma)
--  C4：[Vue.js + Pinia.js状態管理ライブラリ版](https://github.com/kensoz/Rrea-client-collection/tree/master/c4-vue3-ts-quasar)
+-  🟨 C1：[Vue.js（デフォルト版）](https://github.com/kensoz/Rrea-client)
+-  🟦 C2：[React.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c2-react18-ts-mui) 
+-  🟩 C3：[Svelte.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c3-svelte-ts-bulma)
+-  🟪 C4：[Vue.js + Pinia.js状態管理ライブラリ版](https://github.com/kensoz/Rrea-client-collection/tree/master/c4-vue3-ts-quasar)
 
 
 

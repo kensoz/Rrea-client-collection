@@ -1,12 +1,13 @@
-# Rrea-Client 3 (C3)
+# 🟩 Rrea-Client 3 (C3)
 
-![a Vue.js Project](https://img.shields.io/badge/Svelte.js-Front--End-6ee7b7.svg?logo=Svelte&style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-v18.3.0-84CC16.svg?style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)
 
 Demo（デフォルト版）: **[Client]() | [Admin]()**  ・  GitHub: **[Server](https://github.com/kensoz/Rrea-server) | [Admin]() | [Client](https://github.com/kensoz/Rrea-client) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 
 ##### Rrea-Client 3 について
 
 メンバー位置と情報の管理システムメンバー用サイト(Client)のSvelte.js版です。\
+
 新しいフレームワークSvelte.jsを試したく、使ったことがないBulmaとpnpmも使って構築しました。
 
 
