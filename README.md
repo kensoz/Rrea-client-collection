@@ -2,12 +2,12 @@
 
 ![a Vue.js Project](https://img.shields.io/badge/Typescript-Front--End-e5e5e5.svg?logo=typescript&style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284c7.svg?logo=&style=flat-square)　　   
 
-Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin]() | [Client](https://github.com/kensoz/Rrea-client) **
+Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin]() | [Client](https://github.com/kensoz/Rrea-client)**
 
 ##### Rrea-Client-Collectionとは
 
-メンバー位置と情報の管理システムの[デフォルト](https://github.com/kensoz/Rrea-client)ClientはVue.jsによる構築、公開しましたが、\
-React.js, Svelte.jsなどの技術で様々な版も開発しました。
+メンバー位置と情報の管理システムの[デフォルトClient](https://github.com/kensoz/Rrea-client)はVue.jsによる構築、公開しましたが、\
+React.js、Svelte.jsなどの技術で様々な版も開発しました。
 
 
 
