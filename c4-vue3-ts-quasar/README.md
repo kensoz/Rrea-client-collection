@@ -6,7 +6,7 @@ Demo（デフォルト版）: **[Client]() | [Admin]()**  ・  GitHub: **[Server
 
 ##### Rrea-Client 4 について
 
-メンバー位置と情報の管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です。\
+メンバー位置と情報の管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です\
 状態管理ライブラリと業務でよく利用しているQuasarを使って構築しました。
 
 
