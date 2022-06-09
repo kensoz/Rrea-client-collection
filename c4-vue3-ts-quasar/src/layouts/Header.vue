@@ -2,7 +2,9 @@
   <header>
     <div class="q-pa-md q-gutter-y-sm">
       <q-toolbar>
-        <q-toolbar-title class="text-h5 text-weight-bold"> Rrea<span class="text-primary">C4</span> </q-toolbar-title>
+        <q-toolbar-title>
+          <q-img src="/logo.png" alt="logo" width="120px" />
+        </q-toolbar-title>
 
         <q-icon
           class="q-mr-md"
@@ -10,7 +12,7 @@
           name="fa-solid fa-network-wired"
           size="xs"
         />
-        <q-btn outline dense class="q-px-sm" color="primary" icon="fa-brands fa-github" label="GitHub" to="#" />
+        <q-btn outline dense class="q-px-sm" color="primary" icon="fa-brands fa-github" label="GitHub" :href="url" />
       </q-toolbar>
     </div>
   </header>
@@ -22,4 +24,7 @@
 
   const mainStore = useMainStore()
   const { isOnline } = storeToRefs(mainStore)
+
+  // GitHub URL
+  const url = 'https://github.com/kensoz/Rrea-client-collection/tree/master/c4-vue3-ts-quasar'
 </script>

@@ -3,7 +3,7 @@
   import mitt from '../script'
 
   // リンク
-  const GitHub: string = ''
+  const GitHub: string = 'https://github.com/kensoz/Rrea-client-collection/tree/master/c3-svelte-ts-bulma'
   const jump = (): void => {
     window.location.href = GitHub
   }
@@ -18,13 +18,11 @@
   })
 </script>
 
-<nav class="level is-mobile">
+<nav class="level is-mobile mx-2">
   <!-- 左サイド -->
   <div class="level-left">
     <div class="level-item">
-      <h3 class="title is-3">
-        <a href="/" class="has-text-black">RreaC<span class="has-text-primary">3</span></a>
-      </h3>
+      <img src="/logo.png" alt="logo" width="135" />
     </div>
   </div>
 

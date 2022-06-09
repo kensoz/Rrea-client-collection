@@ -6,7 +6,6 @@
   import axios from 'axios'
 
   // 定数、変数定義
-  // const timer: number = 10000
   let isOnline: boolean = true
 
   // form リクエスト
@@ -51,11 +50,6 @@
             })
 
         mitt.emit('sendData', users)
-
-        // 自動ポーリングでデータを更新
-        // setTimeout((): void => {
-        //   getBodyData(e)
-        // }, timer)
       })
       .catch((): void => {
         isOnline = false
@@ -87,7 +81,7 @@
   })
 </script>
 
-<section class="my-5">
+<section class="my-5 mx-2">
   <!-- フォーム -->
   <div class="columns is-align-content-center p-0 m-0">
     <!-- 場所選択 -->
