@@ -53,7 +53,7 @@ export default function Body(): JSX.Element {
         <Card style={bgColorCreator(Number(i.areaCode))} sx={{ boxShadow: 0, display: 'flex' }} key={i.id}>
           {/* 写真 */}
           <CardContent sx={{ width: '40%' }}>
-            <CardMedia component="img" image="/image.png" alt="avatar" sx={{ mt: 1 }} />
+            <CardMedia component="img" src={i.photo} alt="avatar" sx={{ mt: 1 }} />
           </CardContent>
 
           {/* 情報 */}
