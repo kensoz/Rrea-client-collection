@@ -30,7 +30,7 @@
         >
           <div class="mr-3 mt-5 ml-2">
             <figure class="image is-96x96">
-              <img src="/image.png" alt="avatar" />
+              <img src={item.photo} alt="avatar" />
             </figure>
           </div>
 
