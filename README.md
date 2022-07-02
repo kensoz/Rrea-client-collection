@@ -2,7 +2,7 @@
 
 ![Node](https://img.shields.io/badge/Node.js-v18.3.0-84CC16.svg?style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)　   
 
-Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin]() | [Client](https://github.com/kensoz/Rrea-client)**
+Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client)**
 
 ##### Rrea-Client-Collectionとは
 
