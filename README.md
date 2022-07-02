@@ -1,4 +1,4 @@
-# Rrea-Client-Collection
+# 🌈 Rrea-Client-Collection
 
 ![Node](https://img.shields.io/badge/Node.js-v18.3.0-84CC16.svg?style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)　   
 
