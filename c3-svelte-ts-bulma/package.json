@@ -1,12 +1,12 @@
 {
-  "name": "rrea-client-3",
+  "name": "c3-svelte-ts-bulma",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "type": "module",
   "author": "renhou",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 3013",
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json"

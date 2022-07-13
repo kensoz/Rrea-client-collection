@@ -1,0 +1,23 @@
+{
+  "name": "rrea-client-collection",
+  "version": "1.0.0",
+  "author": "renhou",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "c2-react18-ts-mui", "c3-svelte-ts-bulma", "c4-vue3-ts-quasar"
+  ],
+  "scripts": {
+    "build:all": "yarn build:c2 & yarn build:c3 & yarn build:c4",
+    "build:c2": "yarn workspace c2-react18-ts-mui build",
+    "build:c3": "yarn workspace c3-svelte-ts-bulma build",
+    "build:c4": "yarn workspace c4-vue3-ts-quasar build",
+    "dev:c2": "yarn workspace c2-react18-ts-mui  dev",
+    "dev:c3": "yarn workspace c3-svelte-ts-bulma dev",
+    "dev:c4": "yarn workspace c4-vue3-ts-quasar dev",
+    "lint:all": "yarn lint:c2 & yarn lint:c3 & yarn lint:c4",
+    "lint:c2": "yarn workspace c2-react18-ts-mui  lint",
+    "lint:c3": "yarn workspace c3-svelte-ts-bulma lint",
+    "lint:c4": "yarn workspace c4-vue3-ts-quasar lint"
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "name": "rrea-clent-2",
+  "name": "c2-react18-ts-mui",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "renhou",
   "license": "MIT",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 3012",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint --ext .jsx,.js,.tsx,.ts src/"
