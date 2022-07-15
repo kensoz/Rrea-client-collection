@@ -51,7 +51,7 @@ dev（開発）は個別で実行した方がいいです\
 
 C2：[http://localhost:3012](http://localhost:3012) \
 C3：[http://localhost:3013](http://localhost:3013) \
-C4：[http://localhost:3014](http://localhost:3014) \
+C4：[http://localhost:3014](http://localhost:3014)
 
 ```bash
 yarn dev:c2
