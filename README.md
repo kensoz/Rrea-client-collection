@@ -2,7 +2,7 @@
 
 ![Node](https://img.shields.io/badge/Node.js-v18.0.0-fb7185.svg?logo=&style=flat-square)  ![npm](https://img.shields.io/badge/npm-1.0.0-84CC16.svg?style=flat-square)  ![License](https://img.shields.io/badge/License-MIT-0284C7.svg?logo=&style=flat-square)　   
 
-Demo（デフォルト版）:  **[Client]() | [Admin]()**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client)**
+Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client)**
 
 ##### Rrea-Client-Collectionとは
 
@@ -18,7 +18,7 @@ React.js、Svelte.jsなどの技術で様々な版も開発しました。
 
 ## コレクション
 
-↓プレビューが見られます！
+ホームページスクリーンショットがあります
 
 -  🟨 C1：[Vue.js（デフォルト版）](https://github.com/kensoz/Rrea-client)
 -  🟦 C2：[React.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c2-react18-ts-mui) 
@@ -49,9 +49,9 @@ yarn install
 dev（開発）は個別で実行した方がいいです\
 個別実行の際に、C3は`pnpm`を使っていますので、要注意です
 
-C2：[http://localhost:3012](http://localhost:3012) 
-C3：[http://localhost:3013](http://localhost:3013) 
-C4：[http://localhost:3014](http://localhost:3014) 
+C2：[http://localhost:3012](http://localhost:3012) \
+C3：[http://localhost:3013](http://localhost:3013) \
+C4：[http://localhost:3014](http://localhost:3014) \
 
 ```bash
 yarn dev:c2
