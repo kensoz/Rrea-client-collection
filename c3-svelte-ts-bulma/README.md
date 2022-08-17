@@ -60,10 +60,10 @@ pnpm run build
 
 
 
-## 資料＆注意事項
+## 注意事項&
 
 + Viteが見つからないエラーが出ることがあります。対策として再インストールすれば、解決できると思います
-+ pnpm環境でPrettierの設定について：https://qiita.com/kensoz/items/8d81ba371858224c1c67
++ pnpm環境でPrettierの設定について：[Qiita](https://qiita.com/kensoz/items/8d81ba371858224c1c67)
 
 
 
