@@ -6,8 +6,8 @@ Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](htt
 
 ##### Rrea-Client 4 について
 
-メンバー位置と情報の管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です。\
-状態管理ライブラリと業務でよく利用しているQuasarを使って構築しました。
+メンバー情報管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です。  
+状態管理ライブラリと業務でよく利用しているQuasarを使って構築しました。機能はデフォルト版と同じです。
 
 ##### メイン機能
 
@@ -52,9 +52,10 @@ yarn build
 
 
 
-## 資料＆注意事項
+## 注意事項&関連記事
 
-+ SASS 2.0.0の更新に伴うエラー：[see here](https://stackoverflow.com/questions/67631879/nuxtjs-vuetify-throwing-lots-of-using-for-division-is-deprecated-and-will-be)
++ SASS 2.0.0の更新に伴うエラー：[Stack Overflow](https://stackoverflow.com/questions/67631879/nuxtjs-vuetify-throwing-lots-of-using-for-division-is-deprecated-and-will-be)
++ Setupで🍍Pinia.jsを使う：[Qiita](https://qiita.com/kensoz/items/f1d4204f218651d2b6f9) ・  [思否](https://segmentfault.com/a/1190000042290316)
 
 
 

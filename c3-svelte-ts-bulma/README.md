@@ -6,8 +6,8 @@ Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](htt
 
 ##### Rrea-Client 3 について
 
-メンバー位置と情報の管理システムメンバー用サイト(Client)のSvelte.js版です。\
-新しいフレームワークSvelte.jsを試したく、使ったことがないBulmaとpnpmも使って構築しました。
+メンバー情報管理システムメンバー用サイト(Client)のSvelte.js版です。  
+新しいフレームワークSvelte.jsを使いたいと思います、これを機会にBulmaとpnpmも試して追加しました。機能はデフォルト版と同じです。
 
 ##### メイン機能
 
@@ -60,10 +60,10 @@ pnpm run build
 
 
 
-## 注意事項&
+## 注意事項&関連記事
 
 + Viteが見つからないエラーが出ることがあります。対策として再インストールすれば、解決できると思います
-+ pnpm環境でPrettierの設定について：[Qiita](https://qiita.com/kensoz/items/8d81ba371858224c1c67)
++ pnpm環境でPrettierの設定について：[Qiita](https://qiita.com/kensoz/items/8d81ba371858224c1c67) ・ [掘金](https://juejin.cn/post/7088955994645987342) ・ [思否](https://segmentfault.com/a/1190000041737885)
 
 
 

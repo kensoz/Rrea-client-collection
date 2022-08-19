@@ -1,9 +1,11 @@
 # Rrea-Client 5 (C5)
 
-🚧 TODO
+>  🚧 TODO
 
-JSフレームワークを使わなく、 HTML + TypeScript + SASS だけで作る予定です。\
-PUG、art-templateなどテンプレートエンジンを使うかもしれません。
+
+
+HTML + TypeScript + SASS だけで作る予定です。  
+PUGなどテンプレートエンジンを使うかもしれません。
 
 
 

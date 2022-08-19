@@ -6,19 +6,19 @@ Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](htt
 
 ##### Rrea-Client-Collectionとは
 
-メンバー位置と情報の管理システムの[デフォルトClient](https://github.com/kensoz/Rrea-client)はVue.jsによる構築、公開しましたが、\
-React.js、Svelte.jsなどの技術で様々な版も開発しました。
+メンバー情報管理システムの[デフォルトClient](https://github.com/kensoz/Rrea-client)はVue.jsによる構築、公開しましたが、  
+React.js、Svelte.jsなどのスタックで別のバージョンも開発しましたので、このRrea-Client-Collectionhは別のバージョンを収集している場所です。
 
-##### Yarn workspace
 
-モジュールを管理しやすいため、Yarn workspaceによる構成です。\
+
+##### Yarn Workspace
+
+モジュールを管理しやすいため、Yarn workspaceによる構成しています。  
 それぞれのlockファイルがありますので、個別でのインストール、利用もできます。
 
 
 
 ## コレクション
-
-ホームページスクリーンショットがあります
 
 -  🟨 C1：[Vue.js（デフォルト版）](https://github.com/kensoz/Rrea-client)
 -  🟦 C2：[React.js版](https://github.com/kensoz/Rrea-client-collection/tree/master/c2-react18-ts-mui) 
@@ -29,8 +29,7 @@ React.js、Svelte.jsなどの技術で様々な版も開発しました。
 
 ## TODO
 
-+ C5：[HTML+SASS+TypeScript版](https://github.com/kensoz/Rrea-client-collection/tree/master/c5-html-ts-sass)
-+ C6：Flutter版
++ 🚧 C5：[HTML+SASS+TypeScript版](https://github.com/kensoz/Rrea-client-collection/tree/master/c5-html-ts-sass)
 
 
 
@@ -46,11 +45,11 @@ yarn install
 
 ##### 開発
 
-dev（開発）は個別で実行した方がいいです\
+dev（開発）は個別で実行した方がいいです  
 個別実行の際に、C3は`pnpm`を使っていますので、要注意です
 
-C2：[http://localhost:3012](http://localhost:3012) \
-C3：[http://localhost:3013](http://localhost:3013) \
+C2：[http://localhost:3012](http://localhost:3012)   
+C3：[http://localhost:3013](http://localhost:3013)   
 C4：[http://localhost:3014](http://localhost:3014)
 
 ```bash

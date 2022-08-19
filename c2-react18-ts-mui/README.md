@@ -6,8 +6,8 @@ Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](htt
 
 ##### Rrea-Client 2 について
 
-メンバー位置と情報の管理システムメンバー用サイト(Client)の React.js 版です。\
-業務でなかなか使う機会がない React.js と GraphQL を使って構築しました。
+メンバー情報管理システムメンバー用サイト(Client)の React.js 版です。  
+業務でなかなか使う機会がない React.js と GraphQL を使って構築しました。機能はデフォルト版と同じです。
 
 ##### メイン機能
 
