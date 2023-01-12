@@ -4,12 +4,12 @@
 
 Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub: **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 
-##### Rrea-Client 3 について
+## Rrea-Client 3 について
 
 メンバー情報管理システムメンバー用サイト(Client)のSvelte.js版です。  
 新しいフレームワークSvelte.jsを使いたいと思います、これを機会にBulmaとpnpmも試して追加しました。機能はデフォルト版と同じです。
 
-##### メイン機能
+## メイン機能
 
 + メンバー位置と情報を表示
 + レスポンシブ対応
