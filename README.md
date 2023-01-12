@@ -4,14 +4,14 @@
 
 Site（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub:  **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client)**
 
-##### Rrea-Client-Collectionとは
+## Rrea-Client-Collectionとは
 
 メンバー情報管理システムの[デフォルトClient](https://github.com/kensoz/Rrea-client)はVue.jsによる構築、公開しましたが、  
 React.js、Svelte.jsなどのスタックで別のバージョンも開発しましたので、このRrea-Client-Collectionhは別のバージョンを収集している場所です。
 
 
 
-##### Yarn Workspace
+## Yarn Workspace
 
 モジュールを管理しやすいため、Yarn workspaceによる構成しています。  
 それぞれのlockファイルがありますので、個別でのインストール、利用もできます。
@@ -30,7 +30,7 @@ React.js、Svelte.jsなどのスタックで別のバージョンも開発しま
 ## TODO
 
 + 🚧 C5：[HTML+SASS+TypeScript版](https://github.com/kensoz/Rrea-client-collection/tree/master/c5-html-ts-sass)
-
++ 🚧 C6：React Native版
 
 
 ## 使用
