@@ -4,12 +4,12 @@
 
 Demo（デフォルト版）:  **[Client](http://rrea-client.live) | [Admin](http://rrea-admin.live)**  ・  GitHub: **[Server](https://github.com/kensoz/Rrea-server) | [Admin](https://github.com/kensoz/Rrea-admin) | [Client](https://github.com/kensoz/Rrea-client) | [Client-Collection](https://github.com/kensoz/Rrea-client-collection)**
 
-##### Rrea-Client 4 について
+## Rrea-Client 4 について
 
 メンバー情報管理システムメンバー用サイト(Client)のVue.js + Pinia.js版です。  
 状態管理ライブラリと業務でよく利用しているQuasarを使って構築しました。機能はデフォルト版と同じです。
 
-##### メイン機能
+## メイン機能
 
 + メンバー位置と情報を表示
 + レスポンシブ対応
